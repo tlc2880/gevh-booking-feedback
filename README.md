@@ -6,7 +6,7 @@ https://gevh-booking-feedback.herokuapp.com
 # Company: GEVH
 # Description: Full stack booking feedback with database.
 
-# Technology Used:
+# Technologies Used:
 # Python 3.8.0
 # Flask 1.1.1
 # Flask-SQLAlchemy 2.4.1
@@ -15,3 +15,4 @@ https://gevh-booking-feedback.herokuapp.com
 # PostgreSQL 12.1
 
 # Error processing: If name or house input is empty, it will return 'Please enter required fields'.
+# Deploy on Heroku
